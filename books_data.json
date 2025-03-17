@@ -1,0 +1,23 @@
+[
+    {
+        "title": "python",
+        "author": "Ali",
+        "year": "2002",
+        "genre": "Tseries",
+        "read": false
+    },
+    {
+        "title": "HTML",
+        "author": "Taha",
+        "year": "2000",
+        "genre": "t-series",
+        "read": true
+    },
+    {
+        "title": "Css",
+        "author": "Hina",
+        "year": "2000",
+        "genre": "t-series",
+        "read": true
+    }
+]
